@@ -5,4 +5,4 @@ Mesos-Marathon:Container Orchestration
 
 Screenshot for tasks running in Marathon using Mesos.
 
-![Tasks](tasks_running.png)
+![Tasks](tasks.png)
